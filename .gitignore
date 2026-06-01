@@ -1,0 +1,20 @@
+# Modules
+node_modules/
+**/node_modules/
+
+# Env
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Logs 
+*.log
+.DS_Store
+.vscode/
+
+# Build
+/dist
+/build
+/.next/
+/out/
